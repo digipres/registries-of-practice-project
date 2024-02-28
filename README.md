@@ -1,4 +1,4 @@
-# digipres-practice-project
+# registries-of-practice-project 
 The "Registries of Good Practice" Project will explore and develop different approaches to analyze, collate, present and, most importantly, make discoverable the many existing registries and collections of digital preservation good practice.
 
 - The high-level project plan and progress is [openly accessible as a GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
