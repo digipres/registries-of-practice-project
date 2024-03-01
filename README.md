@@ -2,12 +2,23 @@
 The "Registries of Good Practice" Project will explore and develop different approaches to analyze, collate, present and, most importantly, make discoverable the many existing registries and collections of digital preservation good practice.
 
 - The high-level project plan and progress is [openly accessible as a GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
-- The offical DPC project page is __TBC__
+- The offical DPC project page is [here](https://www.dpconline.org/digipres/collaborative-projects/registries-of-good-practice).
 
-## Updates
+## Communication & Collaboration
 
-- 2024-02-16 - Formal project annoucement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
+You can get involved with this project by:
+
+- Joining the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
+- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [deadbird](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
+- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [deadbird](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
+- Checking the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
+- Watching this GitHub repository.
+- Creating and commenting on GitHub issues, submitting pull requests.
+
+## Updates (reverse chronological order)
+
 - 2024-02-23 - DPC Blog: [Goals & Principles](https://www.dpconline.org/blog/registries-of-practice-goals-principles)
+- 2024-02-16 - Formal project annoucement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
 
 ## Goals
 
@@ -23,11 +34,6 @@ The intended outcomes are:
 - A range of formal and information publications documenting the current state of our registries.
 - New tools to help us improve our practices and maintain our registries.
 
-## Collaboration
+## Principles
 
-- Through the _PR-SIG_
-- On GitHub.
-  
-## Principle
-
-__TBC__
+__TBA__
