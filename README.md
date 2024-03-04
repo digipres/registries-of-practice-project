@@ -36,4 +36,45 @@ The intended outcomes are:
 
 ## Principles
 
-__TBA__
+While it’s not yet clear what the outputs of this project will be, we feel it’s important to establish some of the principles that we will use to guide our work. This isn’t an exhaustive list, and these rules may need to be refined over time. But we’ve seen a lot of registry projects come and go, and this is our attempt to articulate what we’ve learned from that, and how that will shape our work.
+
+### No New Registries
+
+We’ve been involved in digital preservation for a long time, and have seen a lot of short-term project funding spent on grand visions of what preservation registries could be. While those research projects have been very valuable in helping us understand what might be possible, very few have successfully made the transition from prototype to production. We believe most of these projects underestimated the barriers to adoption, the effort required to fill these registries, and the difficulties involved in managing data over time (especially around maintaining parallel [‘forks’](https://en.wikipedia.org/wiki/Fork_(software_development) "External Link (opens in new window): https://en.wikipedia.org/wiki/Fork_(software_development)") of curated datasets).
+
+This project is not about ‘owning’ or ‘solving’ the registry problem. Maintaining registries of technical information is difficult work and requires a commitment of time and skills that are in short supply across our sector. It is very important to us that whatever we do will respectfully highlight the long-term and ongoing efforts that people and organisations have put into the registries we all depend on.
+
+### Empower Others
+
+This project will deliver one full-time person of effort over two short years, so how do we maximise the long-term returns from this brief pulse of funding?  We believe that, rather than replicating the kind of work that is already being done, it will be better for everyone if we find ways of contributing that help empower the existing communities in and around preservation registries. Therefore, we will start by building a deeper understanding of ‘the registries problem’ from a practical point of view, and look for ways to help.
+
+Can we build tools that will help registry maintainers work more quickly and confidently? Can we provide resources that will help grow the community of people who use and contribute to registries? Can we make it easier to learn from the past and avoid common pitfalls or reinvented wheels? How can we be a force-multiplier for good practice?
+
+### Be Realistic
+
+While we want to be ambitious and try new things, we also have to be realistic about the limitations of this project: it’s one full-time equivalent person for two years. We believe we can make a significant contribution to the practice of digital preservation, but this will require clarity of purpose and focussed prioritisation.
+
+Similarly, we understand there are many pressures and complicating factors that mean the teams running our registries are already overstretched. We will aim to support those teams, and to avoid encouraging unreasonable demands or expectations.
+
+### Be Useful
+
+This might sound obvious, but over the years there have been a lot of “if you build it they will come” digital preservation projects that foundered because practitioners were unable to integrate those products into their work. Whatever we build must be driven by genuine user need and must work with or around the practical barriers that practitioners, registry maintainers and vendors face.
+
+This is where wider community feedback is critically important. We can’t tell if we’re succeeding unless you let us know whether what we’re doing is actually useful!
+
+### Iterate Early, Often, and in the Open
+
+It is not clear what the shared needs and common barriers are for the digital preservation community, and safe spaces for discussion are only part of the solution. To ensure we’re on the right track, any tools or resources we develop must be rapidly and openly iterated. Broadly speaking, rather than gathering formal requirements, we will focus on generating experimental prototypes to probe the issues and provoke discussion. The biggest benefit of time-limited project funding is the opportunity to fail, and to learn from the failures. 
+
+### Build on the Work of Others
+
+There is so much great work out there, and we want to learn from it, build on it, and shout about it from the rooftops. Not just the preservation registries, but also many different resources and tools from a range of institutions and individuals. Publicising the good work of others will be critical to our success.
+
+Our biggest fear is accidentally leaving someone out! There’s a lot going on and the person doing most of the work on this project has been heavily focussed on web archiving in recent years.  Please don’t be offended if we seem to miss you out, and please don’t assume anything is obvious to us! Please get in touch!
+
+### Make it Easy to Maintain
+
+While we hope to be able to continue at least some of this work beyond this initial two years, there are no guarantees. Therefore, it is critical that the output of the project is something that the DPC and the wider digital preservation community can maintain.
+
+At first, while exploring and experimenting, we can relax this constraint a little, but it will always be borne in mind that the final results cannot be something that requires a lot of complex infrastructure or frequent maintenance. Quite what this means is also unclear at this point, but it’s safe to say it’s more like [minimal computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html "External Link (opens in new window): https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html") and less like ChatGPT.
+
