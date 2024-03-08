@@ -164,7 +164,7 @@ To make sure the needs are clear, it's necessary to make sure we clearly identif
 - **Platform Providers**
   - People that provide services and systems to help do the work of digital preservation.
   - Often involves re-packaging the registries from the _Registry Maintainers_ and the tools from the _Tool Maintainers_.
-  - May be commercial vendors, in-house teams, or a mixture of both.
+  - May be open source or proprietary commercial vendors, in-house teams, or a mixture of both.
 - **Researcher**
   - The people researching new theories and practices of digital preservation.
 - **Funders**
@@ -182,9 +182,6 @@ In parallel with that work, we are building prototypes exploring ways of answeri
 - Who else has worked with _File Format X_, and what did they do?
 - Who else has worked on _DigiPres Problem Y_ and how did it go?
 - What tools can I use to do _DigiPres Action Z_?
-
-
-
 
 The work on user journeys should help establish the relevant of these questions, and where the  _Practitioners_ are when they start asking these questions...
 
