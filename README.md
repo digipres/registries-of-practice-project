@@ -187,6 +187,7 @@ The work on user journeys should help establish the relevant of these questions,
 
 - Asking in search engines?
 - Starting with a file?
+- Starting from a repository system?
 - Starting with a script?
 - ...
 
