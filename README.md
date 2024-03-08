@@ -3,6 +3,7 @@
 <!-- note that this table of contents is being managed using the 'Markdown All in One' extension in VS Code -->
 
 - [Introduction](#introduction)
+  - [What is a registry?](#what-is-a-registry)
 - [Goals](#goals)
 - [Communication and Collaboration](#communication-and-collaboration)
   - [Updates (reverse chronological order)](#updates-reverse-chronological-order)
@@ -18,6 +19,7 @@
   - [Roles](#roles)
   - [Journeys and Needs](#journeys-and-needs)
 
+
 ## Introduction
 
 The "Registries of Good Practice" Project will explore and develop different approaches to analyze, collate, present and, most importantly, make discoverable the many existing registries and collections of digital preservation good practice.
@@ -25,6 +27,23 @@ The "Registries of Good Practice" Project will explore and develop different app
 - The high-level project plan and progress is [openly accessible as a GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
 - The offical DPC project page is [here](https://www.dpconline.org/digipres/collaborative-projects/registries-of-good-practice).
 
+
+### What is a registry?
+
+The idea of a 'technical registry' is a bit of jargon with a long history in the field of digital preservation. The general idea was already well established at _iPRES 2004_:
+
+> Cooperation has always been essential in the digital preservation community regarding knowledge exchange and collaboration in research activities. As initiatives increasingly turn to implementation, cooperation also gains practical significance. Initiatives embark on collaboratively building services that are required by various preservation systems.
+This presentation addresses file format registries. The preservation community jointly calls for a register that identifies and documents file formats, to come to terms with the myriad of different file formats. Activities towards building a file format registry are emerging, as already some preservation initiatives rely on such a future service in their current approaches.
+> From [File format registries - a global infrastructure for local persistence](https://phaidra.univie.ac.at/detail/o:295015)
+
+An earlier 2003 publication suggests this terminology is inherited from the [IANA Media Type Registry](https://www.iana.org/assignments/media-types/): 
+
+> "The current MIME Media Types registry does not provide sufficient granularity of format typing or sufficient standardized representation information about formats."
+> [Towards a global digital format registry](https://archive.ifla.org/IV/ifla69/papers/128e-Abrams_Seaman.pdf)
+
+But the idea of formal registries of reference information goes back much further, as indicated in this [GOV.UK publication about what it takes to be a register](https://gds.blog.gov.uk/2015/10/13/the-characteristics-of-a-register/) and venerable registries referenced from there (like the [UK Land Registry](https://www.gov.uk/government/organisations/land-registry)).
+
+But for the purposes of this project, we're not interpreting this too strictly. Perhaps in the past we have focussed too much on _the registry we need to build_ and rushed too far ahead. We want to focus on the community of digital preservation practitioners, and understand their needs and capabilities. We want to learn from the registries (and other information sources) that have been well-used and have stood the test of time. Anything that people can use to improve how they do digital preservation is in scope.
 
 ## Goals
 
@@ -109,6 +128,10 @@ At first, while exploring and experimenting, we can relax this constraint a litt
 ```warning
 This section is a very rough early draft.
 ```
+
+We want the outputs of the project to be useful, so we want to focus clearly on user needs. This is in part based on [the GOV.UK advice on user research](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs), with the possibility of future [Wardley mapping](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) of the [technology landscape](https://learnwardleymapping.com/landscape/) being kept in mind.
+
+Based on our previous experience, we're avoiding leaping immediately to user _requirements_. We have found that being asked to enumerate requirements up front tends to get lost in the details and overloaded with discordant expectations and unvoiced assumptions. We want to start by thinking about [needs and capabilities in context](https://learnwardleymapping.com/2021/01/12/5-ways-to-represent-user-needs-on-a-wardley-map/), before getting into user stories as ways of framing requirements.
 
 ### Roles
 
