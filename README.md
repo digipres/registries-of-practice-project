@@ -1,9 +1,11 @@
 # Registries of Good Practice project<!-- omit in toc -->
 
+<!-- note that this table of contents is being managed using the 'Markdown All in One' extension in VS Code -->
+
 - [Introduction](#introduction)
-- [Communication \& Collaboration](#communication--collaboration)
-- [Updates (reverse chronological order)](#updates-reverse-chronological-order)
 - [Goals](#goals)
+- [Communication and Collaboration](#communication-and-collaboration)
+  - [Updates (reverse chronological order)](#updates-reverse-chronological-order)
 - [Principles](#principles)
   - [No New Registries](#no-new-registries)
   - [Empower Others](#empower-others)
@@ -12,6 +14,8 @@
   - [Iterate Early, Often, and in the Open](#iterate-early-often-and-in-the-open)
   - [Build on the Work of Others](#build-on-the-work-of-others)
   - [Make it Easy to Maintain](#make-it-easy-to-maintain)
+- [User Needs](#user-needs)
+  - [Roles](#roles)
 
 ## Introduction
 
@@ -20,21 +24,6 @@ The "Registries of Good Practice" Project will explore and develop different app
 - The high-level project plan and progress is [openly accessible as a GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
 - The offical DPC project page is [here](https://www.dpconline.org/digipres/collaborative-projects/registries-of-good-practice).
 
-## Communication & Collaboration
-
-You can get involved with this project by:
-
-- Joining the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
-- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [deadbird](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
-- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [deadbird](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
-- Checking the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
-- Watching this GitHub repository.
-- Creating and commenting on GitHub issues, submitting pull requests.
-
-## Updates (reverse chronological order)
-
-- 2024-02-23 - DPC Blog: [Goals & Principles](https://www.dpconline.org/blog/registries-of-practice-goals-principles)
-- 2024-02-16 - Formal project annoucement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
 
 ## Goals
 
@@ -46,9 +35,29 @@ To explore the following issues:
 
 The intended outcomes are:
 
-- An established _Preservation Registries Special Interest Group (PR-SIG)_ where people can come together to talk about digital preservation registries.
+- An established [_Preservation Registries Special Interest Group (PR-SIG)_](https://www.dpconline.org/digipres/pr-sig) where people can come together to talk about digital preservation registries.
 - A range of formal and information publications documenting the current state of our registries.
 - New tools to help us improve our practices and maintain our registries.
+- 
+
+
+## Communication and Collaboration
+
+You can get involved with this project by:
+
+- Joining the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
+- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [deadbird](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
+- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [deadbird](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
+- Checking the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
+- Watching this GitHub repository.
+- Creating and commenting on GitHub issues, submitting pull requests.
+
+
+### Updates (reverse chronological order)
+
+- 2024-02-23 - DPC Blog: [Goals & Principles](https://www.dpconline.org/blog/registries-of-practice-goals-principles)
+- 2024-02-16 - Formal project annoucement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
+
 
 ## Principles
 
@@ -93,4 +102,47 @@ Our biggest fear is accidentally leaving someone out! There’s a lot going on a
 While we hope to be able to continue at least some of this work beyond this initial two years, there are no guarantees. Therefore, it is critical that the output of the project is something that the DPC and the wider digital preservation community can maintain.
 
 At first, while exploring and experimenting, we can relax this constraint a little, but it will always be borne in mind that the final results cannot be something that requires a lot of complex infrastructure or frequent maintenance. Quite what this means is also unclear at this point, but it’s safe to say it’s more like [minimal computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html "External Link (opens in new window): https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html") and less like ChatGPT.
+
+## User Needs
+
+```warning
+This section is a very rough early draft.
+```
+
+### Roles
+
+To make sure the needs are clear, it's necessary to make sure we clearly identify the different user roles. Note that individual users may act in more than one of these roles.
+
+- **Patrons**
+  - The people who we are doing all this preservation for, now and in the future.
+  - In OAIS terms, the _Consumers_ of the material that is in the _Archive_. 
+- **Creators**
+  - The people who create what we preserve.
+  - This includes any people who are in some sense 'in' what we preserve. e.g. people's information, or stories, or data. 
+  - In OAIS terms, roughly corresponds to the _Producers_ of the material that goes into the _Archive_, excepting that OAIS doesn't explicitly consider the people 'in' the _Archive_.
+- **Custodians**
+  - Whoever has overall responsibility for what is being preserved.
+  - Whoever has decision-making authority over how things are done.
+  - In OAIS terms, the _Management_, who defined the policies the _Archive_ operates under.
+- **Practitioners**
+  - Someone who does the work involved in digital preservation. Handling files, ingesting into repository systems, managing replicas, facilitating access, etc.
+  - They act according to the policies established by the _Custodian_.
+  - In OAIS terms, they are the _Archive_. Or at least, the human part of the _Archive_. But OAIS doesn't draw that distinction.
+- **Registry Contributors**
+  - People who find relevant information and do the analysis required to prepare it for inclusion in a registry.
+- **Registry Maintainers**
+  - The people who run the long-term registry infrastructure we depend on.
+  - Works with internal and external _Registry Contributors_ to add and update the contents of the registry.
+- **Tool Maintainers**
+  - People who maintain the tools we depend on.
+  - Often open source.
+- **Platform Providers**
+  - People that provide services and systems to help do the work of digital preservation.
+  - Often involves re-packaging the registries from the _Registry Maintainers_ and the tools from the _Tool Maintainers_.
+  - May be commercial vendors, in-house teams, or a mixture of both.
+- **Researcher**
+  - The people researching new theories and practices of digital preservation.
+- **Funders**
+  - Organisations that fund digital preservation work.
+  - Should perhaps distinguish between ongoing versus time-limited project funding?
 
