@@ -22,7 +22,7 @@
 
 ## Introduction
 
-The "Registries of Good Practice" Project will explore and develop different approaches to analyze, collate, present and, most importantly, make discoverable the many existing registries and collections of digital preservation good practice.
+The "Registries of Good Practice" Project is a collaboration between the Digital Preservation Coalition (DPC) and Yale University Library (YUL). The [formal announcement can be found here](https://www.dpconline.org/news/registries-of-good-practice)). The project will explore and develop different approaches to analyze, collate, present and, most importantly, make discoverable the many existing registries and collections of digital preservation good practice.
 
 - The high-level project plan and progress is [openly accessible as a GitHub project](https://github.com/orgs/digipres/projects/2/views/1).
 - The offical DPC project page is [here](https://www.dpconline.org/digipres/collaborative-projects/registries-of-good-practice).
@@ -58,7 +58,6 @@ The intended outcomes are:
 - An established [_Preservation Registries Special Interest Group (PR-SIG)_](https://www.dpconline.org/digipres/pr-sig) where people can come together to talk about digital preservation registries.
 - A range of formal and information publications documenting the current state of our registries.
 - New tools to help us improve our practices and maintain our registries.
-- 
 
 
 ## Communication and Collaboration
@@ -181,6 +180,9 @@ In parallel with that work, we are building prototypes exploring ways of answeri
 - Who else has worked with _File Format X_, and what did they do?
 - Who else has worked on _DigiPres Problem Y_ and how did it go?
 - What tools can I use to do _DigiPres Action Z_?
+
+
+
 
 The work on user journeys should help establish the relevant of these questions, and where the  _Practitioners_ are when they start asking these questions...
 
