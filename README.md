@@ -159,8 +159,8 @@ To make sure the needs are clear, it's necessary to make sure we clearly identif
   - The people who run the long-term registry infrastructure we depend on.
   - Works with internal and external _Registry Contributors_ to add and update the contents of the registry.
 - **Tool Maintainers**
-  - People who maintain the tools we depend on.
-  - Often open source.
+  - People who maintain the tools that _Practitioners_ and _Platform Providers_ depend on.
+  - Often open source projects.
 - **Platform Providers**
   - People that provide services and systems to help do the work of digital preservation.
   - Often involves re-packaging the registries from the _Registry Maintainers_ and the tools from the _Tool Maintainers_.
