@@ -16,6 +16,7 @@
   - [Make it Easy to Maintain](#make-it-easy-to-maintain)
 - [User Needs](#user-needs)
   - [Roles](#roles)
+  - [Journeys and Needs](#journeys-and-needs)
 
 ## Introduction
 
@@ -145,4 +146,26 @@ To make sure the needs are clear, it's necessary to make sure we clearly identif
 - **Funders**
   - Organisations that fund digital preservation work.
   - Should perhaps distinguish between ongoing versus time-limited project funding?
+
+
+### Journeys and Needs
+
+We are currently working on understanding the user journeys and needs relating to practice and registries in digital preservation. At this stage, this is focusing on how things work at Yale University Libraries.  We will share what we find, and look to work with other _Practitioners_ to refine and grow the results of this work.
+
+In parallel with that work, we are building prototypes exploring ways of answering some of the questions we think are likely to come up:
+
+- What can we find out about _File Format X_?
+- Who else has worked with _File Format X_, and what did they do?
+- Who else has worked on _DigiPres Problem Y_ and how did it go?
+- What tools can I use to do _DigiPres Action Z_?
+
+The work on user journeys should help establish the relevant of these questions, and where the  _Practitioners_ are when they start asking these questions...
+
+- Asking in search engines?
+- Starting with a file?
+- Starting with a script?
+- ...
+
+
+
 
