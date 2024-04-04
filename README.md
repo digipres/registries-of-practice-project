@@ -18,6 +18,10 @@
 - [User Needs](#user-needs)
   - [Roles](#roles)
   - [Journeys and Needs](#journeys-and-needs)
+- [Licensing \& Copyright](#licensing--copyright)
+  - [Source Data \& Aggregate Data](#source-data--aggregate-data)
+  - [Source Code](#source-code)
+  - [Documentation \& Publications](#documentation--publications)
 
 
 ## Introduction
@@ -58,8 +62,8 @@ To explore the following issues:
 The intended outcomes are:
 
 - An established [_Preservation Registries Special Interest Group (PR-SIG)_](https://www.dpconline.org/digipres/pr-sig) where people can come together to talk about digital preservation registries.
-- A range of formal and information publications documenting the current state of our registries.
-- New tools to help us improve our practices and maintain our registries.
+- A range of formal and informal publications documenting the current state of our registries.
+- New tools and services to help us improve our practices and maintain our registries, built with long-term maintenance and sustainability in mind.
 
 
 ## Communication and Collaboration
@@ -192,5 +196,20 @@ The work on user journeys should help establish the relevant of these questions,
 - ...
 
 
+## Licensing & Copyright
 
+### Source Data & Aggregate Data
 
+We gather data from multiple sources for indexing, but the original data remains under the creators' terms of publication.  Databases or other consumptive data sets remain bound by the terms of the original sources in each data set. Index data that is considered purely factual and non-consumptive _may_ be made available under CC0 terms.
+
+Note that these datasets are intended for research and analysis. They are not intended for re-use as part of an automated process (e.g. format identification), and are not suitable for using in that way.  The aim of this project is to surface gaps, differences and conflicts between registries, so that interested parties can understand and resolve those tensions. Embedding these aggregated datasets in any automated process is likely to lead to inconsistent and unpredictable outcomes.
+
+### Source Code
+
+The project source code is not intended nor suitable for embedding in closed or proprietary systems. As such, the default license for source code will be the AGPL-3.0. 
+
+If the project ends up creating tools or libraries that would be suitable for re-use, they will be distilled into separate repositories and made available under the terms of the MIT license. But in preference to that, wherever possible, the project will contribute to existing open source projects. Contributions to any third-party tools or libraries will be made under terms appropriate to that tool or library.
+
+### Documentation & Publications
+
+Documentation published by the project will be made available under the terms of the AGPL-3.0 or CC-BY depending on context. Formal publications will be made available under CC-BY terms.
