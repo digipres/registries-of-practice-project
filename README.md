@@ -71,8 +71,8 @@ The intended outcomes are:
 You can get involved with this project by:
 
 - Joining the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
-- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [deadbird](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
-- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [deadbird](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
+- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [Twitter/X](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
+- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [Twitter/X](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
 - Checking the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
 - Watching this GitHub repository.
 - Creating and commenting on GitHub issues, submitting pull requests.
