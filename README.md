@@ -22,6 +22,9 @@
   - [Source Data \& Aggregate Data](#source-data--aggregate-data)
   - [Source Code](#source-code)
   - [Documentation \& Publications](#documentation--publications)
+- [Prototypes](#prototypes)
+  - [The Format Aggregator](#the-format-aggregator)
+  - [The Digital Publications Index v1.0](#the-digital-publications-index-v10)
 
 
 ## Introduction
@@ -217,3 +220,37 @@ If the project ends up creating tools or libraries that would be suitable for re
 ### Documentation & Publications
 
 Documentation published by the project will be made available under the terms of the AGPL-3.0 or CC-BY depending on context. Formal publications will be made available under CC-BY terms.
+
+
+## Prototypes
+
+A crucial part of the project is generating prototypes to help us explore what might be possible.  Please let us know any feedback you have, good or bad!
+
+### The Format Aggregator
+
+The format aggregator is at https://digipres.org/format/
+
+It predates this project, but it's history, purpose and architecture are closely related to the current work.  It will be used as the basis for an improved prototype.
+
+- It is hosted on GitHub Pages, as part of the https://digipres.org/ website. See https://github.com/digipres/digipres.github.io
+- The site is built from the source files using [Jekyll](https://jekyllrb.com/), with a simple custom theme based on [Bootstrap](https://getbootstrap.com/).
+- The aggregator code is in https://github.com/digipres/sentinel which uses daily GitHub Actions to gather the source information and update the `digipres.github.io` submodule.
+
+This arrangement has been running for around ten years, with the aggregator only needing occasional updates and fixes (perhaps a few hours a year on average). The user interface is composed entirely of static resources hosted on free services, and so requires almost no maintenance.
+
+### The Digital Publications Index v1.0
+
+The first new output of this project is at https://digipres.org/publications/
+
+As described there, it pools records of digital preservation practice into browseable and searchable form. It is initially focussed on surfacing the individual publications from the iPRES conference proceedings.
+
+- It is hosted on GitHub Pages, out of a separate repository: https://github.com/digipres/publications/ - the GitHub Pages service automatically deploys it as a sub-section of the parent site.
+- The site is built from the source files using [Jekyll](https://jekyllrb.com/), using the [Just The Docs](https://just-the-docs.com/) theme.
+- The code that collects the iPRES publications and generates Markdown versions is in https://github.com/digipres/digipres-practice-index - it is not set up to run automatically as that is not appropriate in this case.
+- That code also generates an SQLite version of the data, which can be used in many tools. The publications site provides a suitable example using [Datasette Lite](https://github.com/simonw/datasette-lite?tab=readme-ov-file#datasette-lite).
+- The site is also set up to deploy on Netlify as https://digipres-org-publications.netlify.app/:
+  - This enables us to provide an alternative editor interface using [DecapCMS](https://decapcms.org/), available at: https://digipres-org-publications.netlify.app/admin/
+  - It allows GitHub users to update some of the pages of the site, e.g. the pages for each conference, with all the authentication and content management handled via GitHub accounts and pull-requests.
+  - The Netlify account is at https://app.netlify.com/teams/digipres/overview and is only accessible by Andrew Jackson at present.
+  - Using DecapCMS is optional, as content can always be managed directly in GitHub or using other tools.  There are also other ways of deploying DecapCMS than on Netlify, which can be explored if necessary.
+
