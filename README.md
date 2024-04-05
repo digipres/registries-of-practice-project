@@ -198,6 +198,10 @@ The work on user journeys should help establish the relevant of these questions,
 
 ## Licensing & Copyright
 
+```warning
+This is a draft policy and may be revised.
+```
+
 ### Source Data & Aggregate Data
 
 We gather data from multiple sources for indexing, but the original data remains under the creators' terms of publication.  Databases or other consumptive data sets remain bound by the terms of the original sources in each data set. Index data that is considered purely factual and non-consumptive _may_ be made available under CC0 terms.
