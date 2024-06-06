@@ -22,6 +22,7 @@
   - [Source Data \& Aggregate Data](#source-data--aggregate-data)
   - [Source Code](#source-code)
   - [Documentation \& Publications](#documentation--publications)
+- [Project Plan \& Timeline](#project-plan--timeline)
 - [Prototypes](#prototypes)
   - [The Format Aggregator](#the-format-aggregator)
   - [The Digital Publications Index v1.0](#the-digital-publications-index-v10)
@@ -221,6 +222,22 @@ If the project ends up creating tools or libraries that would be suitable for re
 
 Documentation published by the project will be made available under the terms of the AGPL-3.0 or CC-BY depending on context. Formal publications will be made available under CC-BY terms.
 
+
+## Project Plan & Timeline
+
+
+| Quarter | Focus                                                                                                                                                                                                                                                                                                                                                                                                                     | Outputs                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2023.Q1 | - Project start-up, initial planning & comms.<br>- 1st release of DigiPres Publications Index.                                                                                                                                                                                                                                                                                                                            | [blog](https://www.dpconline.org/blog/digital-preservation-publications-index) |
+| 2023.Q2 | - Begin updating the [Format Aggregator](https://digipres.org/formats/) to become the "Format Registry Index 2.0", including e.g. working with YUL to add basic software information from WikiData.<br>- Create tools for comparing format profiles from registries with each other and with institutional holdings, starting with YUL. <br>- Compare registry holdings and document initial results.                     |                                                                                |
+| 2023.Q3 | - Complete "Format Registry Index 2.0".<br>- Refine format profile comparison tool based on feedback.<br>- iPRES 2024: Present "DigiPres Publications Index 1.0" and "Format Registry Index 2.0" as [this Workshop](https://ipres2024.pubpub.org/pub/52dby49z/release/1?readingCollection=ef524688), gather feedback for future planning.<br>- iPRES 2024: Present registry comparison results as a poster (if accepted). |                                                                                |
+| 2023.Q4 | - Work with YUL to link from the Format Index to EaaSI.<br>- ...TBC...                                                                                                                                                                                                                                                                                                                                                    |                                                                                |
+| 2024.Q1 | - Work with Open Preservation Foundation to come up with a plan for the [COPTR Tool Registry](https://coptr.digipres.org).<br>- Start planning for the end of the project, ongoing funding for ANJ, etc.                                                                                                                                                                                                                  |                                                                                |
+| 2024.Q2 | - ...TBC...                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                |
+| 2024.Q3 | - ...TBC...                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                |
+| 2024.Q4 | - ...TBC...                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                |
+
+n.b. This is updated in Obsidian as Markdown tables are a bit of a pain.
 
 ## Prototypes
 
