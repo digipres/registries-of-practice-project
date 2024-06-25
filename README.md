@@ -18,6 +18,7 @@
 - [User Needs](#user-needs)
   - [Roles](#roles)
   - [Journeys and Needs](#journeys-and-needs)
+  - [User Stories](#user-stories)
 - [Licensing \& Copyright](#licensing--copyright)
   - [Source Data \& Aggregate Data](#source-data--aggregate-data)
   - [Source Code](#source-code)
@@ -199,6 +200,14 @@ The work on user journeys should help establish the relevant of these questions,
 - Starting with a script?
 - ...
 
+### User Stories
+
+- As a Practitioner, I want to know what software is needed to access the items in my collection.
+  - Therefore, I want to know what formats are in the collection, and to be able to use that to find what software is needed.
+    - Therefore, I want to know which format registries and tools can help me analyse the formats in my collections.
+      - As running all the tools is expensive/difficult, I want to start the process based on the collection profile of file extensions.
+- As a Custodian, I want to understand my collection, e.g. what makes it distinctive, and find others with similar collections so we can share the burden of maintaining access to rarer formats.
+  - Therefore, I want to compare a collection profile against one or more other collection profiles, to understand how the formats and composition vary across institutions.
 
 ## Licensing & Copyright
 
