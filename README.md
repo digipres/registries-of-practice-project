@@ -26,7 +26,7 @@
 - [Project Plan \& Timeline](#project-plan--timeline)
 - [Prototypes](#prototypes)
   - [The Format Aggregator](#the-format-aggregator)
-  - [The Digital Publications Index v1.0](#the-digital-publications-index-v10)
+  - [The Digital Preservation Publications Index v1.0](#the-digital-preservation-publications-index-v10)
 
 
 ## Introduction
@@ -73,20 +73,22 @@ The intended outcomes are:
 
 ## Communication and Collaboration
 
-You can get involved with this project by:
+If you'd like to talk to me about the project, or anything else related to digital preservation and web archiving, feel free to [book a call with me](https://calendly.com/andrew-n-jackson/dpoh).
 
-- Joining the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
-- Looking out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [Twitter/X](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
-- Looking out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [Twitter/X](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
-- Checking the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
-- Watching this GitHub repository.
-- Creating and commenting on GitHub issues, submitting pull requests.
+If you want to get involved, you could:
+
+- Join the [Preservation Registries Special Interest Group](https://www.dpconline.org/digipres/pr-sig).
+- Look out for project updates via [the DPC website](https://www.dpconline.org/digipres/tags/registries-of-good-practice) and DPC social media channels ([Mastodon](https://digipres.club/@dpc_chat), [Twitter/X](https://twitter.com/dpc_chat), [LinkedIn](https://www.linkedin.com/company/digital-preservation-coalition/)).
+- Look out for blogs on technical details via [Andy Jackson's personal blog](https://anjackson.net/tags/digital-preservation/) and his social media channels ([Mastodon](https://digipres.club/@anj), [Twitter/X](https://twitter.com/anjacks0n), [LinkedIn](https://www.linkedin.com/in/andrewnjackson/)).
+- Check the aforementioned [GitHub project board](https://github.com/orgs/digipres/projects/2/views/1).
+- Watch this GitHub repository.
+- Create and comment on GitHub issues, submit pull requests, etc.
 
 
 ### Updates (reverse chronological order)
 
 - 2024-02-23 - DPC Blog: [Goals & Principles](https://www.dpconline.org/blog/registries-of-practice-goals-principles)
-- 2024-02-16 - Formal project annoucement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
+- 2024-02-16 - Formal project announcement: [New project launched to help practitioners discover digital preservation resources](https://www.dpconline.org/news/registries-of-good-practice)
 
 
 ## Principles
@@ -267,7 +269,7 @@ It predates this project, but it's history, purpose and architecture are closely
 
 This arrangement has been running for around ten years, with the aggregator only needing occasional updates and fixes (perhaps a few hours a year on average). The user interface is composed entirely of static resources hosted on free services, and so requires almost no maintenance.
 
-### The Digital Publications Index v1.0
+### The Digital Preservation Publications Index v1.0
 
 The first new output of this project is at https://digipres.org/publications/
 
@@ -283,3 +285,7 @@ As described there, it pools records of digital preservation practice into brows
   - The Netlify account is at https://app.netlify.com/teams/digipres/overview and is only accessible by Andrew Jackson at present.
   - Using DecapCMS is optional, as content can always be managed directly in GitHub or using other tools.  There are also other ways of deploying DecapCMS than on Netlify, which can be explored if necessary.
 
+References to the DigiPres Publications Index:
+
+- Mentioned in [this blog on making data available in SQLite and similar formats](https://literarymachin.es/beyond-api-data-dumps/#1-digipres-practice-index).
+- iPRES 2024 site will link keywords to index search pages.
