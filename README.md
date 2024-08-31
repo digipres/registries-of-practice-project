@@ -259,7 +259,7 @@ A crucial part of the project is generating prototypes to help us explore what m
 
 ### The Format Aggregator
 
-The format aggregator is at https://digipres.org/format/
+The format aggregator is at https://digipres.org/formats/
 
 It predates this project, but it's history, purpose and architecture are closely related to the current work.  It will be used as the basis for an improved prototype.
 
